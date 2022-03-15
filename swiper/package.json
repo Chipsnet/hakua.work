@@ -51,6 +51,6 @@
   ],
   "dependencies": {
     "dom7": "^3.0.0",
-    "ssr-window": "^3.0.0"
+    "ssr-window": "^4.0.0"
   }
 }
